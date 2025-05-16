@@ -23,3 +23,8 @@ imagine-math-india.vercel.app
 slope-var.vercel.app  
 
 playmathsreading.vercel.app
+
+## upcoming
+will (try) to add:  
+Red's exploit corner links  
+Mocha links  
