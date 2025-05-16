@@ -7,10 +7,10 @@ give me recommendations or smth
 
 ## INTERSTELLAR
 aiisbooty.vercel.app
-aisucksalot.vercel.app
-google-enviorment-setup.vercel.app
-praisethe-obamna.vercel.app
-mathgames4kids-blog.vercel.app
-imagine-math-india.vercel.app
+  aisucksalot.vercel.app
+  google-enviorment-setup.vercel.app
+  praisethe-obamna.vercel.app
+  mathgames4kids-blog.vercel.app
+  imagine-math-india.vercel.app
 
 
