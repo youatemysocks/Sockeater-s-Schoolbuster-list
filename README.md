@@ -1,4 +1,4 @@
-# Sockeater-s-Schoolbuster-list
+# Sockeater's Schoolbuster list
 
 welcome to sockeater's schoolbuster list!
 this includes free proxies, mostly static sites
