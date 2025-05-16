@@ -19,3 +19,7 @@ mathgames4kids-blog.vercel.app
 imagine-math-india.vercel.app
 
 
+## SLOPE
+slope-var.vercel.app  
+
+playmathsreading.vercel.app
